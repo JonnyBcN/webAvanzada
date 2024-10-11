@@ -4,6 +4,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+//Comentario para Github
+
 public class consultaSQL {
     // Datos de conexión
     private static final String URL = "jdbc:mysql://localhost:3306/neptuno_profe";
