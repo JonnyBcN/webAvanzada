@@ -1,3 +1,5 @@
+
+//Comentario 
 public class ConectarMySQL {
     public static void main(String[] args) {
         // Cargar el controlador JDBC de MySQL
